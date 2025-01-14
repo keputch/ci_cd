@@ -7,3 +7,6 @@ password="123Frytki"
 dodane z maczka
 
 dane z amazona
+
+testowanie pullow i pushow
+
