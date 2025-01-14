@@ -7,3 +7,5 @@ password="123Frytki"
 dodane z maczka
 
 dane z amazona
+ciekawe czy doklei
+
