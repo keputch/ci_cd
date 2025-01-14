@@ -5,3 +5,5 @@ print('test security')
 
 password="123Frytki"
 dodane z maczka
+
+dane z amazona
