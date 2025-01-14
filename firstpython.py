@@ -11,4 +11,8 @@ dane z amazona
 ciekawe czy doklei
 
 testowanie pullow i pushow
+zostawie miejsce
+
+
+
 
