@@ -10,3 +10,5 @@ dane z amazona
 
 testowanie pullow i pushow
 
+
+nie kumam
