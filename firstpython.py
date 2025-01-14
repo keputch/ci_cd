@@ -4,3 +4,4 @@ print('nie ma wody na pustyni')
 print('test security')
 
 password="123Frytki"
+dodane z maczka
